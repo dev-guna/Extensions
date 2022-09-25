@@ -1,4 +1,4 @@
-# Getting Started with CRA-Extension
+# Getting Started with CRA-EXTENSION
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -26,16 +26,16 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-# Getting Started Lanch Extension
+# To launch the Extension
 
 First, head over to chrome://extensions, which you can type or paste directly into the Chrome search bar. On the top right, there will be an option to turn on Developer Mode . Go for it .\
 Some new features will appear, Once that's done, you need to click the Load unpacked button which will allow us to load our project in the Chrome extension store.\
 Now, the extension is available in our Chrome extension store. You can also pin the extension in the browser.\
 
 
-# Getting Started Check Our Extension on the specific website [amazon]
+# Getting started Check our Extension on the specific website
 
 First, head over to https://www.amazon.in/ website and select the one product page .\
 Now click the our extension option from the browser.Now simple popup showing on right side top with some controls.\
-Now enable the option . Our extension working on the website .\
+Now enable the option from the extension's control . Our extension will work on the website .\
 
